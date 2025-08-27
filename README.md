@@ -5,7 +5,12 @@
 
 
 (a Sea of C...++)
-<p> My Favorite Bird is.. </p>
+<div>
+<p> My Favorite  Language is.. </p>
+< img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
+  
+</div>
+
 <!--
 **CodeBird874/CodeBird874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
