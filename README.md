@@ -7,7 +7,7 @@
 (a Sea of C...++)
 <div>
 <p> My Favorite  Language is.. </p>
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="50" height="50" >
   
 </div>
 
