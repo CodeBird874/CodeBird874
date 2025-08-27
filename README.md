@@ -5,7 +5,7 @@
 
 
 (a Sea of C...++)
-<div>
+<div display="inline-block">
 <p> My Favorite  Language is.. </p> 
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="50" height="50" >
   
