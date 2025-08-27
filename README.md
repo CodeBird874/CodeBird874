@@ -7,8 +7,8 @@
 
 (a Sea of C...++)
 <div  display="block">
-<p> My Favorite  Language is.. </p> 
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="50" height="50" >
+<p> My Favorite  Language is.. <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="50" height="50" > </p> 
+
   
 </div>
 
