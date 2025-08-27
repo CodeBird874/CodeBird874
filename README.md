@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm CodingBird874
-<img src="">
+<img src="https://github.com/CodeBird874/CodeBird874/blob/main/SPG.png">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBird874&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
