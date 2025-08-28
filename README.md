@@ -17,7 +17,7 @@
 </div>
 
 <p>Lanugages I've used so far...</p>
-<div></div>
+<div> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="50" height="100" >  <img src="https://github.com/voodootikigod/logo.js/raw/master/js.png" width="50" height="100"></div>
 <!--
 **CodeBird874/CodeBird874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
