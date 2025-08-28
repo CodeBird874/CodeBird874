@@ -22,7 +22,7 @@
 ## UPCOMING PROJECTS:
 
 
-  <p> The ollama based bot named Parrot.ai <img src=""></p>
+  <p> The ollama based bot named Parrot.ai <img src="parrot.gif"></p>
 
 <!--
 **CodeBird874/CodeBird874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
