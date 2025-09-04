@@ -17,7 +17,7 @@
 </div>
 
 <p>Lanugages I've used so far...</p>
-<div> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="50" height="100" >  <img src="https://github.com/voodootikigod/logo.js/raw/master/js.png" width="50" height="100"> <img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" width="500"></div>
+<div> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="50" height="100" >  <img src="https://github.com/voodootikigod/logo.js/raw/master/js.png" width="50" height="100"> <img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" width="150"></div>
 
 ## UPCOMING PROJECTS:
 
