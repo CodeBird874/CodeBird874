@@ -1,3 +1,5 @@
+
+<img src="https://github.com/CodeBird874/CodeBird874/blob/main/banner.svg">
 ## Hi there 👋 I'm CodingBird874
 <img src="https://github.com/CodeBird874/CodeBird874/blob/main/SPG.png">
 
