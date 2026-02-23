@@ -5,21 +5,18 @@
   
 <img src="https://github.com/CodeBird874/CodeBird874/blob/main/SPG.png">
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBird874)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center"> A novice developer in mainly C++.</h2>
 
 
 
-(a Sea of C...++)
 <div  display="block">
-<p> My Favorite  Language is... <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="50" height="100" > </p> 
+<p> My Favorite  Language is...  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="45" height="100" > </p> 
 
   
 </div>
 
-<p>Lanugages I've used so far...</p>
-<div> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="50" height="100" >  <img src="https://github.com/voodootikigod/logo.js/raw/master/js.png" width="50" height="100"> <img src="https://github.com/CodeBird874/CodeBird874/blob/main/icons8-java-logo-100.png" width="65" height="100">  </div>
+<p>Things I've programmed with so far..</p>
+<div> <img src="https://camo.githubusercontent.com/921d1cbbdc72e0bd1e213d528412040a7bacb888138e14f5105d5c3d4b2cb4a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465">  <img src="https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white"> </div>
 
 ## UPCOMING PROJECTS:
 
