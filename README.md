@@ -1,7 +1,7 @@
 
 <img src="https://github.com/CodeBird874/CodeBird874/blob/main/banner.png">
 
-<h1 align="center">Hi there 👋 I'm CodingBird874</h1>
+<h1 align="center">Hi there 👋 I'm CodeBird874</h1>
   
 
 <div display="flex">
