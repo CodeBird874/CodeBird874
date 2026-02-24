@@ -3,7 +3,13 @@
 
 <h1 align="center">Hi there 👋 I'm CodingBird874</h1>
   
-<img src="https://github.com/CodeBird874/CodeBird874/blob/main/SPG.png">
+
+<div display="flex">
+
+  <img src="https://github.com/CodeBird874/CodeBird874/blob/main/SPG.png">
+  <img src="https://github.com/CodeBird874/CodeBird874/blob/main/Sleeping%20SPG.gif">
+</div>
+
 
 <h2 align="center"> A novice developer in mainly C++.</h2>
 
